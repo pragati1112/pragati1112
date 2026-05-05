@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pragati1112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=pragati1112&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -18,62 +18,42 @@
 - 🤝 Looking to collaborate on **Frontend & Full Stack Projects**
 - 📚 Exploring **Backend (Node.js, MongoDB, SQL)**
 - 🎯 Goal: Become a **Full Stack Developer**
+- 🎓 Started my tech journey after **12th with a Full Stack Development course**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/pragati-makwana-a401a6313/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://www.linkedin.com/in/pragati-makwana-a401a6313/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pragati-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://instagram.com/pagatix_code" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+---
 
-<a href="https://leetcode.com/u/pragati-mkw/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
+## 💻 Tech Stack
+
+### 🚀 Frontend
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</p>
+### ⚙️ Backend (Learning & Practicing)
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express"/>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragati1112&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragati1112&theme=tokyonight" />
-</p>
+### 🛠 Tools & Design
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm"/>
+<img src="https://img.shields.io/badge/Nodemon-darkgreen?style=for-the-badge&logo=nodemon"/>
+<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva"/>
+<img src="https://img.shields.io/badge/Figma-orange?style=for-the-badge&logo=figma"/>
 
 ---
 
-### 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati1112&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ✨ Fun Touch
-
-<p align="center">
-  💡 “Code. Learn. Build. Repeat.”
-</p>
